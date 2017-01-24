@@ -1,0 +1,9 @@
+/web/
+/composer.json
+/composer.lock
+/bin/
+/var/
+/phpunit.xml.dist
+/README.md
+/vendor/
+/tests/
